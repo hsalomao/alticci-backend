@@ -24,7 +24,6 @@ public class AlticciService {
         } else {
             return alticci.getNumber();
         }
-
     }
 
     private Long calculate(Long id) {
